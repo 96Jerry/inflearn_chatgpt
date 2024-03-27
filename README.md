@@ -1,2 +1,2 @@
 - 인프런 수업에 사용되는 예제 코드를 바탕으로 실습한 레포
-- 강의출처 : <a href="https://www.google.com/" target="_blank">강의 출처<a>
+- 강의출처 : <a href="https://inf.run/2msm6" target="_blank">강의 출처</a>
